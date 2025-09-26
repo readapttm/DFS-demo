@@ -22,4 +22,5 @@ This calculation may be useful when investigating the connectivity between layer
 
     Takes the edge list generated above and traverses it, tracking the product of edge weights connecting the first and last node of each traversal. Saves the result in a data frame.
     The graph can be traversed either from the first layer (top down) or last layer (bottom up)
-     
+
+NB. All code in this repository is provided for educational purposes only, with absolutely no warranty explicit, implied, or otherwise.
